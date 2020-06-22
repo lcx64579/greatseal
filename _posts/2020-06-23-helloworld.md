@@ -4,7 +4,7 @@ title: Hello World!
 date: 2020-06-23
 Author: GreatSeal
 categories: 随笔
-tags: [unsorted]
+tags: [未分类]
 comments: true
 --- 
 # Hello, world!
