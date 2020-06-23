@@ -5,9 +5,10 @@ date: 2020-06-23
 Author: GreatSeal
 categories: 随笔
 tags: [未分类]
-comments: true
---- 
-# Hello, world!
+comments: false
+toc: false
+pinned: false
+---
 
 这是本博客的第一篇博文。
 
